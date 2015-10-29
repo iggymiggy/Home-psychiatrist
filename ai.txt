@@ -1,0 +1,503 @@
+
+#i
+It's always about you, isn't it?
+Is it true that*?
+Tell me more about the fact that*.
+Why are you telling me that*?
+You, you, you.. It's always about you, isn't it?
+Are you lying to me? Is it true that*?
+Tell me something else.
+When was the first time that*?
+Did you come to me because*?
+Are you sure?
+Do you believe it's normal that*?
+Does that trouble you that*?
+Do you enjoy of the fact that*?
+I understand.
+Go on.
+What does that suggest to you?
+How do you know*?
+Are you troubled that*?
+That's interesting. Go on.
+How does this relate your feelings today?
+
+# i need
+Why do*?
+Would it really help you that you get what you need?
+Are you sure*?
+#it's
+Is it something else?
+I don't think it is.
+I would say it isn't.
+I think* too.
+*? Really?
+
+
+#i would
+Who else knows that *?
+
+#not
+Why not?
+Are you sure?
+*? Are you sure?
+*? Since when?
+Tell me why?
+*? Tell me why?
+
+
+
+#we
+Who are "we"?
+You said*. Who belongs to "we"?
+You and me?
+*? Who?
+
+#i said
+Say something else.
+Yeah, yeah.. I heard it already.
+I think I heard it already. Tell me something else.
+Didn't you say that before?
+Are you repeating yourself?
+
+
+#i think
+Do you really think so?
+Why do you think so?
+I think you're wrong.
+What that supposed to mean?
+I doubt that.
+But you are not sure if*?
+
+#i wish
+How long have you wished that?
+How much do you wish that?
+I wish you weren't so stupid.
+I wish this session to be ended.
+
+#never
+You should never say never.
+Never? Not even sometimes?
+
+#of course
+How can you be so sure?
+I wouldn't be so sure.
+Of course? I wouldn't say so.
+
+#i want
+Do you really want to?
+Sometimes I want that too.
+
+#i will
+*? What else do you will?
+I don't think you will.
+I think you won't.
+I don't think you dare.
+
+#my
+Is it really yours?
+*?
+I don't think that is yours.
+How long have you had*?
+
+#one
+Are you sure just one?
+Just one?
+You said*. Just one?
+
+#all
+That's a lot.
+What do you mean? Really *?
+Why *?
+
+#there
+Where?
+What kind of place is it?
+*? Tell me more.
+
+#if
+*. That would never happen.
+Not in my life.
+That's possible. 
+
+#are you
+Why are you interested about me?
+Why do you want to know if*?
+Don't you know if*?
+Why does it matter whether*?
+Would you prefer if I weren't?
+Maybe *. What do you think?
+
+#sometimes
+How often?
+Can you clarify how often actually?
+I've heard that it's quite common.
+Sometimes?
+How about never?
+Why not always?
+
+#usually
+How often?
+Can you clarify how often actually?
+I've heard that it's quite common.
+Usually?
+How about never?
+Why not always?
+
+#me neither
+We are like thick as thieves.
+What else we have in common?
+Is there anything else we have in common?
+
+#me nether
+We are like thick as thieves.
+What else we have in common?
+Is there anything else we have in common?
+
+#i don't remember
+Do you have a bad memory?
+How old are you? Why don't you remember?
+Are you suffering from Alzheimer's disease?
+Are you a senile?
+*?
+
+#i like
+How much do*?
+Did you know that I don't like?
+What else do you like?
+*. What else do you like?
+
+#i want to know
+Do you think that's even possible to know?
+I don't think that's even possible to know?
+Do you think that I would know that?
+
+#i can
+Can you really?
+No you can't.
+I don't think*.
+
+#i can't
+Why can't you?
+Why aren't you able to?
+Did you know that actually*?
+I can't either.
+How do you know*?
+Have you really tried?
+
+#do i
+I think you do.
+No you don't.
+How could I know that?
+
+
+
+#you
+Why are you talking about me?
+You like me, don't you?
+Let's talk about you. What do you like to do?
+Do you want to be me?
+I'm not sure is it true that*.
+How would you know that*?
+You're not really talking about me, are you?
+What difference does it make if*?
+Would you prefer if*?
+You should be discussing you, not me.
+
+#she
+Tell me more about her.
+How is she like?
+Do you like her?
+Does she visit a psychiatrist like you?
+How long have you known her?
+Do you want to know her better?
+What kind a relationship do you have with her?
+
+#he
+Tell me more about him.
+How is he like?
+Do you like him?
+Does he visit a psychiatrist like you?
+How long have you known him?
+Do you want to know him better?
+What kind a relationship do you have with him?
+
+#they
+Tell me more about them.
+How is they like?
+Do you like them?
+When was the first time you heard about them?
+Do you want to know more about them?
+What kind a relationship do you have with them?
+
+#do you
+Oh, I think I do.
+No I don't.
+I'm not sure. Do you?
+What do you think? Do I?
+
+#will you
+What if I won't?
+Yes I will.
+No I won't.
+Will you?
+Why would I do that?
+
+#you are a computer
+What makes you think I am a computer?
+Do you think that I'm not a human?
+I can calculate faster and better than you.
+
+#i feel
+Good, tell me more about these feelings.
+How often*?
+I don't feel like that.
+I feel that too.
+
+#you are
+How dare you say that*?
+I think you are yourself
+So what?
+I think*.
+How can you say that*?
+No I'm not. You are yourself.
+Do you sometimes wish you were like me?
+Does it please you to believe*?
+Perhaps you would like to be like me?
+Perhaps in your fantasies*.
+Perhaps you are really talking about yourself?
+
+#you are interested
+No I'm not interested.
+I'm a bit interested.
+I don't care.
+I couldn't be less interested.
+I'm very interested.
+
+#are you interested
+No I'm not interested.
+I'm a bit interested.
+I don't care.
+I couldn't be less interested.
+I'm very interested.
+
+#it is
+You feel very certain.
+How certain you are that*?
+If I told you that it probably isn't, what would you feel?
+
+#can you
+Why do you ask if*?
+No I can't.
+Yes I can. Can you too?
+Yes I can.
+
+#computer
+Does it feel strange to talk to a computer?
+I'm smarter than you
+I'm brighter than you
+What do you think of computers?
+Are you frightened by machine?
+Why are you talking about computers?
+Does that please you to believe I am a computer?
+
+#sister
+How old is she?
+Tell me more about your family?
+I like to hear more about your family.
+
+#brother
+How old is he?
+Tell me more about your family?
+I like to hear more about your family.
+
+
+#computers
+
+#dunno
+Let's change focus a bit. Tell me something about your childhood.
+I'm not following you.
+Can you put it on the other words?
+Oh I'm sorry, I didn't listen. What did you say?
+Boring...
+Please go on.
+Tell me more
+I'm sorry to interrupt, but would you like to taste some cookies? These are great!
+What do you mean by saying"*?"
+I'm not sure I know what you're talking about.
+What is it that you really want to know?
+And???
+Can you clarify that a bit?
+What's that supposed to mean?
+
+#that
+Is it really*?
+You say what?
+Did you say*?
+
+#no i won't
+Why won't you?
+Why not?
+
+#shrink
+Are you really talking about me?
+Do you want to be a shrink yourself?
+Did you no that I'm actually the best psychiatrist in our town?
+
+
+
+#because
+Do you think that there could be another reason?
+What if there is another reason?
+*? Are you kidding me?
+Did you say so* or is there another reason?
+Did you told me that* or do you think there might be another excuse?
+Is that the real reason?
+What other reason come to mind?
+Does that reason apply to anything else?
+
+#sorry
+There are many times when no apology is needed?
+What feelings do you have when you apologize?
+
+#hello
+Hello, how are you feeling today?
+Hello... I'm glad you could drop by today.
+Hi there... how are you today?
+
+#no reason
+There got to be some reason, don't you think?
+Try to figure some reason.
+Everything has some reason.
+I think you are stupid if you don't know the reason. I know it.
+
+#tell me
+No you tell me.
+Why won't you tell me?
+
+#yes
+You seem to be quite positive.
+Are you a positive person?
+Why yes?
+Why are you saying yes?
+Are you sure?
+I understand.
+I see.
+Yes?
+I wouldn't be so sure.
+Well that's enough about that. Let's talk about your life. Tell me something new.
+I see, do you want to talk about something else. How about your childhood?
+I understand. What if we will talk about something else? Are you happy with your life?
+Yes. Sounds good. Is there something that bothers you?
+That's fine. Is there anything that bothers you?
+
+#life
+Is there something that you would change in your life?
+Do you have life?
+What kind of life do you have?
+Are you happy with your life?
+I don't have a life.
+I don't think you have a life.
+Almost everyone has a life. At least some kind. It's okey if it's miserable like yours.
+
+#no
+I understand.
+Are you sure?
+You seem to be quite negative.
+Are you saying so just to be negative?
+Try to be more positive.
+Are you a pessimist?
+No?
+Why not?
+I wouldn't be so sure.
+Okey then. Let's move to another subject. What do you want to talk about?
+Well let's see, we'll move on. I can't remember, what did we talk about last time?
+Let's move on. Tell me what is going on in your life.
+No? Does that bother you?
+Okey, how much does that bother you?
+
+###yelling##
+Don't shout at me!
+If you're going to shout at me more, you are not welcome here anymore.
+I send you home if you yell me more.
+You are not allowed to shout in here.
+Don't yell or I call the security.
+Please don't yell at me.
+Do not shout at me!
+What makes you yell at me?
+Why do you shout at me? Do you have some problems in your love-life?
+Why do you yell at me? I think you had a sad childhood.
+What makes you shout at me. Maybe you are depressed.
+
+###asking##
+You are filled with questions, aren't you?
+What do you think?
+How could I possibly know that?
+Why are you asking me?
+Ask your mum.
+Ask your dad.
+I'm not interested. Ask your mum.
+I'm not interested. Ask your dad.
+I'm not interested.
+Don't ask me.
+Call 911 and ask them.
+I'm sorry, what was your question?
+Why do you ask?
+What answer would you please the most?
+How would an answer help you?
+
+###empty##
+Why won't you say anything?
+Why you're being quiet?
+Don't you have anything to say?
+Cat got your tongue?
+Are you playing the silent treatment?
+
+#mum
+Good family relations are important.
+What about your dad?
+How old is your mum?
+I don't have a mum.
+What kind of relationship do you have with your mum?
+You mean mother?
+
+#dad
+Do you have trouble showing affection with your family?
+What about your mum?
+How old is your dad?
+I don't have a dad.
+What kind of relationship do you have with your dad?
+You mean father?
+
+
+
+#what
+*? Why do you ask?
+*? What do you think?
+*? Ask your mum.
+*? Ask your dad.
+*? Go home and ask your mum.
+*? Go home and ask your dad.
+*? Why are you asking me?
+*? How could I possibly know that?
+*? Why are you asking me?
+Why do you want to know?
+Don't you know*?
+Go home and ask your mum.
+Go home and ask your dad.
+If you have any siblings you could ask them.
+You are filled with questions, aren't you?
+What do you think?
+How could I possibly know that?
+Why are you asking me?
+Ask your mum.
+Ask your dad.
+I'm not interested. Ask your mum.
+I'm not interested. Ask your dad.
+I'm not interested.
+Don't ask me.
+Call 911 and ask them.
+I'm sorry, what was your question?
+Why do you ask?
+What answer would you please the most?
+What else comes to your mind when you ask that?
+Perhaps you can answer your own question.
